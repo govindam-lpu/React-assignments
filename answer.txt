@@ -1,0 +1,11 @@
+Generate SSH key in windows
+1. First we enter ssh-keygen and then follow the steps prompted by the cmd line such as choosing a directory and entering a password for it
+
+To push the text file to repo
+1. First create a repo on github. 
+2. From the cmd line, go to the folder which needs to be pushed.
+3. We first use git init to instialise the directory.
+4. Then we git add to stage the files for first commit.
+5. git commit to make the comment commit.
+6. We then copy the repo link and remote add origin.
+7. Lastly we git push origin main
