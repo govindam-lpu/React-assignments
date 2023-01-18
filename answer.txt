@@ -9,3 +9,9 @@ To push the text file to repo
 5. git commit to make the comment commit.
 6. We then copy the repo link and remote add origin.
 7. Lastly we git push origin main
+
+
+Questions:
+3. Deploy a static website using the same repo and add screen shot.
+4. Difference between static and dynamic website.
+5. Steps you followed to connect github repo to your local repo.
